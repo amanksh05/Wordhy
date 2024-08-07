@@ -14,8 +14,8 @@ function page() {
     return (
         <main className="flex min-h-screen flex-col items-center justify-center">
 
-            <div className=" border-2 flex flex-col items-center justify-center w-1/4  p-8 rounded-lg gap-6 border-neutral-800">
-                <div className="flex flex-col items-center justify-center gap-1">
+            <div className=" border-2 flex flex-col items-center justify-center max-w-lg w-6/12  p-12 rounded-lg gap-6 border-neutral-800">
+                <div className="flex flex-col items-center justify-center gap-2">
                     <div className="text-2xl font-semibold">
                         Create an account
                     </div>
